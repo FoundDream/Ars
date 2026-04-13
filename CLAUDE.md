@@ -6,6 +6,7 @@ skills collection for Claude Code.
 
 - `skills/` — self-made skills
 - `awesome-skills/` — collected skills
+- `statusline/` — Claude Code status line script
 
 ## Commit Convention
 
