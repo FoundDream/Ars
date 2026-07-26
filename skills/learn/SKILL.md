@@ -3,6 +3,8 @@ name: learn
 description: "Invoke when diving deep into an unfamiliar domain, preparing a research article, or turning collected sources into publishable output. Runs a six-phase workflow: collect, digest, outline, fill in, refine, publish. Not for quick lookups or single-file reads."
 metadata:
   version: "3.8.0"
+  source: "https://github.com/tw93/Waza"
+  license: "MIT"
 ---
 
 # Learn: From Raw Materials to Published Output

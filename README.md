@@ -1,9 +1,21 @@
 # Ars
 
-Skills collection for Claude Code.
+A small collection of Claude Code skills.
 
-## Structure
+## Skills
 
-- [`skills/`](./skills/) — self-made skills
-- [`awesome-skills/`](./awesome-skills/) — collected skills from the community
-- [`statusline/`](./statusline/) — Claude Code status line script
+| Skill | Description | Source |
+| --- | --- | --- |
+| [commit](./skills/commit/) | Create focused, convention-aware commits | Ars |
+| [design](./skills/design/) | Build interfaces with a clear visual direction | [tw93/Waza](https://github.com/tw93/Waza) |
+| [learn](./skills/learn/) | Turn source material into structured learning and writing | [tw93/Waza](https://github.com/tw93/Waza) |
+| [read](./skills/read/) | Fetch URLs and PDFs as clean Markdown | [tw93/Waza](https://github.com/tw93/Waza) |
+
+## Install
+
+Copy the skill you want into your Claude Code skills directory:
+
+```bash
+mkdir -p ~/.claude/skills
+cp -R skills/<name> ~/.claude/skills/
+```

@@ -4,6 +4,8 @@ description: "Fetches any URL or PDF as clean Markdown for reading, quoting, cit
 when_to_use: "any URL or PDF to fetch, 看这个链接, 读一下, 看看这个网页, 抓取网页, read this, check this URL, fetch this page"
 metadata:
   version: "3.14.0"
+  source: "https://github.com/tw93/Waza"
+  license: "MIT"
 ---
 
 # Read: Fetch Any URL or PDF as Markdown
