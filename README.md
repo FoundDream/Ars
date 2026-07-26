@@ -6,6 +6,7 @@ A focused Claude Code skill repository.
 
 | Skill | Description | Source |
 | --- | --- | --- |
+| [baoyu-article-illustrator](./skills/baoyu-article-illustrator/) | Analyze articles and generate consistent illustrations with type, style, and palette controls | [jimliu/baoyu-skills](https://github.com/jimliu/baoyu-skills) |
 | [guizang-material-illustration](./skills/guizang-material-illustration/) | Generate labeled material illustrations and restyled charts | [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) |
 
 ## Install
