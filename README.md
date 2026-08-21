@@ -10,6 +10,7 @@ A focused Claude Code skill repository.
 | [better-interface](./skills/better-interface/) | Build and review interfaces across accessibility, layout, writing, typography, color, and UI polish | Merged and adapted from [jakubkrehel/skills](https://github.com/jakubkrehel/skills) |
 | [guizang-material-illustration](./skills/guizang-material-illustration/) | Generate labeled material illustrations and restyled charts | [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) |
 | [ip-as-logo](./skills/ip-as-logo/) | Generate simple, cute, rounded IP mascot images with strict shape, color, and composition constraints | [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) |
+| [product-visuals](./skills/product-visuals/) | Compose product marketing stills from real macOS or iOS screenshots inside official Apple device bezels | [Innei/SKILL](https://github.com/Innei/SKILL/tree/main/skills/content/product-visuals) |
 
 ## Install
 
